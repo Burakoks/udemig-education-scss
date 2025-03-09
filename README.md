@@ -20,4 +20,6 @@ Udemig Education, modern ve responsive bir eğitim platformu arayüzü sunan bir
 
 -Temiz ve okunabilir kod yapısı
 
+<h2>Ekran Görüntüsü</h2>
+
 ![](ekran.gif)
